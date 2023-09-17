@@ -1,2 +1,3 @@
-# NumberGuesser
-A Number Guessing Game Made With JavaScript.
+# Number Guessing Game
+
+This is a simple JavaScript game.
